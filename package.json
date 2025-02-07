@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "express": "4.x",
+    "index.js": "^0.0.3",
     "underscore": "^1.12.1"
   },
   "scripts": {
